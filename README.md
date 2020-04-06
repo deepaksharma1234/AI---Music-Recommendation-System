@@ -4,7 +4,7 @@ This music recommendation system is based on two recomendation models:
 
 2. Similarity Recommendation
 
-It uses this two recommendation models to predict songs for a user.
+It uses these two recommendation models to predict songs for a user.
 
 1.Popularity Recommendation:
 
